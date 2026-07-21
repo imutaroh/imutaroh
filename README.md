@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:238636,100:39c5cf&height=200&section=header&text=IMUTARO&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=%3E%20TUI%20PROFILE%20v1.0%20%3C&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39c5cf&height=140&section=header" width="100%" alt="header"/>
 
 <img src="./assets/header.png" width="720" alt="いむたろ TUI card"/>
 
