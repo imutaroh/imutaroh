@@ -33,9 +33,7 @@
   <img width="840" src="./assets/h-environment-light.png" alt="02 / environment">
 </picture>
 
-- **[Herdr](https://herdr.dev)** — ターミナル。エージェントを何人も並べて走らせる場所
-- **[Claude Code](https://claude.com/claude-code)** — 相棒。だいたい隣のペインにいる
-- **[Neovim](https://neovim.io)** — エディタ。書くのも、差分を読むのもここ
+**[Herdr](https://herdr.dev)**　·　**[Claude Code](https://claude.com/claude-code)**　·　**[Neovim](https://neovim.io)**
 
 設定は [dotfiles](https://github.com/imutaroh/dotfiles) に置いています。
 
@@ -44,6 +42,4 @@
   <img width="840" src="./assets/h-writing-light.png" alt="03 / writing">
 </picture>
 
-- **[Zenn](https://zenn.dev/imu_imu)** — 技術のはなし
-- **[note](https://note.com/imutaroh)** — 新卒エンジニアの体験談
-- **[notes.imutaro.com](https://notes.imutaro.com)** — 学んだことの置き場
+**[Zenn](https://zenn.dev/imu_imu)**　·　**[note](https://note.com/imutaroh)**　·　**[notes.imutaro.com](https://notes.imutaro.com)**
