@@ -13,6 +13,11 @@
 <br clear="right">
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/log-dark.png">
+  <img width="840" src="./assets/log-light.png" alt="00 / log — 過去 1 年のコントリビューション数と週ごとの推移">
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-profile-dark.png">
   <img width="840" src="./assets/h-profile-light.png" alt="01 / profile.json">
 </picture>
