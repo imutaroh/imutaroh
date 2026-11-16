@@ -24,12 +24,12 @@
 
 ```json
 {
-  "name": "いむたろ",
-  "job": "データまわりのエンジニア",
-  "stack": ["sql", "dbt"],
-  "symptom": "道具を作るほうが本編になる",
-  "pair": "Claude Code",
-  "status": "今日もなにか作っている"
+  "name": "imutaro",
+  "role": "Data Engineer",
+  "grade": "2026年卒",
+  "base": "福岡",
+  "focus": "data platform / AI",
+  "site": "imutaro.com"
 }
 ```
 
