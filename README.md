@@ -5,7 +5,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/title-dark.png">
-  <img width="430" src="./assets/title-light.png" alt="Imutaro いむたろ / data engineer · sql / dbt">
+  <img width="430" src="./assets/title-light.png" alt="Imutaro いむたろ / data engineer · BigQuery / dbt">
 </picture>
 
 データまわりのエンジニアです。<br>
