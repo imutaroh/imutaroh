@@ -1,8 +1,8 @@
 {
-  "total": 3093,
+  "total": 3108,
   "per_day": 8.5,
   "best_day": "2026-11-20",
-  "best_count": 182,
+  "best_count": 189,
   "busiest": "fri",
   "quietest": "sun",
   "weeks": [
@@ -57,7 +57,7 @@
     46,
     168,
     71,
-    265,
-    14
+    272,
+    22
   ]
 }
